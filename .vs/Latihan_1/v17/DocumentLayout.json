@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project Unity\\Latihan_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|D:\\Project Unity\\Latihan_1\\assets\\script\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|D:\\Project Unity\\Latihan_1\\assets\\script\\enemynavmesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemynavmesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|d:\\project unity\\latihan_1\\assets\\script\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|D:\\Project Unity\\Latihan_1\\assets\\script\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|D:\\Project Unity\\Latihan_1\\assets\\script\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|d:\\project unity\\latihan_1\\assets\\script\\gunenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gunenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|D:\\Project Unity\\Latihan_1\\assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|D:\\Project Unity\\Latihan_1\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|D:\\Project Unity\\Latihan_1\\assets\\script\\hidemouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19F090-6CFC-E641-F491-692DB76FE1E2}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hidemouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GunEnemy.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\GunEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GunEnemy.cs",
+              "ToolTip": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\GunEnemy.cs",
+              "RelativeToolTip": "Assets\\Script\\GunEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:38:13.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Score.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\Score.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Score.cs",
+              "ToolTip": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\Score.cs",
+              "RelativeToolTip": "Assets\\Script\\Score.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:54:00.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyNavMesh.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\EnemyNavMesh.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyNavMesh.cs",
+              "ToolTip": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\EnemyNavMesh.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyNavMesh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:53:24.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
+              "ToolTip": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:14:31.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Gun.cs",
+              "ToolTip": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\Gun.cs",
+              "RelativeToolTip": "Assets\\Script\\Gun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:08:05.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThirdPersonCamera.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\ThirdPersonCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ThirdPersonCamera.cs",
+              "ToolTip": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\ThirdPersonCamera.cs",
+              "RelativeToolTip": "Assets\\Script\\ThirdPersonCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:47:03.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player Movement.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\Player Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player Movement.cs",
+              "ToolTip": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\Player Movement.cs",
+              "RelativeToolTip": "Assets\\Script\\Player Movement.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwFMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:21:11.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy.cs",
+              "ToolTip": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:39:59.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HideMouse.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\HideMouse.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HideMouse.cs",
+              "ToolTip": "D:\\Project Unity\\Latihan_1\\Assets\\Script\\HideMouse.cs",
+              "RelativeToolTip": "Assets\\Script\\HideMouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:49:03.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
